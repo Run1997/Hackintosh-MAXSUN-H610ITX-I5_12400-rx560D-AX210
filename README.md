@@ -29,7 +29,7 @@
 
 【安装教程】
 Ventura 13.4.1 镜像下载：https://yuexiang.fun/1556.html 进去里面找对应版本下载
-安装教程请参考：https://yuexiang.fun/39.html 
+安装教程可参考：https://yuexiang.fun/39.html 或 https://www.jianshu.com/p/f90fa69c780f
 
 注意事项：
 1、我用的主板是铭瑄H610iTX，为了统一，首先扣掉主板电池恢复默认BIOS。
@@ -53,4 +53,8 @@ Ventura 13.4.1 镜像下载：https://yuexiang.fun/1556.html 进去里面找对�
 AX210 蓝牙驱动参考：https://bbs.pcbeta.com/viewthread-1939308-1-1.html （有问题可以爬楼看评论）
 
 安装好系统后，切记不要登陆icloud 和 APPLE ID 等，否则可能黑号，需要先修改三码再进行登陆：https://www.bilibili.com/video/BV1454y167ML/
+
+目前每次开机/重启都会进入OpenCore页面，很麻烦。
+我们需要设置开机直接启动，跳过OpenCore界面。将下载的BOOT文件夹替换SSD硬盘中EFI文件夹下的BOOT文件夹，并在OpenCore Configurator0.9.3工具中做如下设置：
+将等待时间调为0，取消显示引导菜单
   
