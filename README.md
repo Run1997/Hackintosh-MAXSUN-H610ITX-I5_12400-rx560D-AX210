@@ -3,13 +3,13 @@
 
 【主机配置清单】
 芯片：英特尔 i5-12400 散片 									    
-主板：铭瑄 H610iTX 挑战者2.5g												     
-显卡：盈通 RX560D 4G								 
-网卡：英特尔 AX210+8DB天线 
-内存：海盗船 DDR4 3200 16G*2 		 				   				 
-存储：三星 MZVL21T0HCLR-00B00 1T		   								 	  
-散热：利民		 			  						 	 		 
-电源：海韵 SSP-300SUG 300W    								 	
+主板：铭瑄 H610iTX 挑战者2.5g
+显卡：盈通 RX560D 4G
+网卡：英特尔 AX210+8DB天线
+内存：海盗船 DDR4 3200 16G*2
+存储：三星 MZVL21T0HCLR-00B00 1T
+散热：利民
+电源：海韵 SSP-300SUG 300W
 机箱：六鸽K2S V3									 
 
 【需求】
@@ -29,7 +29,9 @@
 
 【安装教程】
 Ventura 13.4.1 镜像下载：https://yuexiang.fun/1556.html 进去里面找对应版本下载
+
 安装教程可参考：https://yuexiang.fun/39.html 或 https://www.jianshu.com/p/f90fa69c780f
+
 
 注意事项：
 1、我用的主板是铭瑄H610iTX，为了统一，首先扣掉主板电池恢复默认BIOS。
