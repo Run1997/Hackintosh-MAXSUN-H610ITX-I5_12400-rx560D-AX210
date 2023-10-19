@@ -30,10 +30,14 @@
 【安装教程】
 Ventura 13.4.1 镜像下载：https://yuexiang.fun/1556.html 进去里面找对应版本下载
 安装教程请参考：https://yuexiang.fun/39.html 
+
 注意事项：
 1、我用的主板是铭瑄H610iTX，为了统一，首先扣掉主板电池恢复默认BIOS。
+
 2、我用显卡是盈通RX560D 4G，并且使用了PCIE3.0显卡延长线，所以要进入BIOS把PCIE速率改为Gen3
+
 3、铭瑄H610ITX如何设置U盘启动？开机后一直按F11会弹出选择框
+
 4、安装上面的教程安装完后，成功进入Mac系统后，如何加载驱动：
 
 将安装工具通过U盘拉到Mac系统下：安装OpenCore Configurator0.9.5、OCAuxiliaryTools
