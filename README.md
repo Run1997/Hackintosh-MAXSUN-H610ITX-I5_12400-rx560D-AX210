@@ -1,0 +1,2 @@
+# Hackintosh-MAXSUN-H610ITX-I5_12400-rx560D-AX210
+EFI+工具+安装过程
